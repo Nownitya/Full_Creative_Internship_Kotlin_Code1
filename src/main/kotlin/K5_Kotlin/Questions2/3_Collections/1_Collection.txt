@@ -1,0 +1,5 @@
+
+    A collection is a group of related items, like a list of words, or a set of employee records.
+    The collection can have the items ordered or unordered, and the items can be unique or not.
+    You've already learned about one type of collection, lists. Lists have an order to the items,
+    but the items don't have to be unique.

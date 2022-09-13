@@ -1,0 +1,4 @@
+
+
+    A map is useful when you have pairs of data, and you can identify each pair based on its key. The key "maps to" the
+    corresponding value.
